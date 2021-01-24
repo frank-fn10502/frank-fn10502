@@ -1,4 +1,4 @@
-### Hi I'm Frank Chen 👋
+### Hi there, I'm Frank 👋
 🔭 I’m currently working on [my_website]. The purpose is to record all the techniques and ideas I have learned!
 
 
