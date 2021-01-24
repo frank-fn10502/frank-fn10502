@@ -1,7 +1,7 @@
 ### Hi I'm Frank Chen 👋
 🔭 I’m currently working on [my_website]
 
-[my_website] : https://frank-fn10502.github.io/
+[my_website]: https://frank-fn10502.github.io/
 <!--
 **frank-fn10502/frank-fn10502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
