@@ -1,9 +1,9 @@
-<div>
+<div width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&&show_icons=true&hide_title=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&&show_icons=true&hide_title=true" />
   </a>
 </div>
 ### Hi there, I'm Frank 👋
