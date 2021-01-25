@@ -14,7 +14,7 @@
 
 🍺 Goals: 
 - Use Nuxt to build a web .
-- Update [my_blog](https://frank-fn10502.github.io/) every week. 
+- Update [my_blog](https://frank-fn10502.github.io/) every day. 
 - Understand the theory of neural networks and try to build one.
 
 <!--
