@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there, I'm Frank 👋
 🔭 I’m currently working on [my_website]. The purpose is to record all the techniques and ideas I have learned!
 
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frank-fn10502)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=10&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
