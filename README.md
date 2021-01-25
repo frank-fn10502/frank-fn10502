@@ -5,7 +5,7 @@
     </h2>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&hide_title=true" />
 </a>
 
 🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/).
