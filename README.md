@@ -1,6 +1,9 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&&show_icons=true&hide_title=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&&show_icons=true&hide_title=true" />
+</a>
 ### Hi there, I'm Frank 👋
 🔭 I’m currently working on [my_website]. The purpose is to record all the techniques and ideas I have learned!
 
