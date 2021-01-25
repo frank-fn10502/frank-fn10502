@@ -7,13 +7,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
 </a>
-🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/). 
+
+🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/).
 
 🌱 I’m currently learning deeplearning & web
 
 🍺 Goals: 
 - Use Nuxt to build a web .
-- Update [my_blog](https://frank-fn10502.github.io/) every week. (The purpose is to record all the techniques and ideas I have learned!
+- Update [my_blog](https://frank-fn10502.github.io/) every week. 
 - Understand the theory of neural networks and try to build one.
 
 <!--
