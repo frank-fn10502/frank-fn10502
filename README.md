@@ -4,7 +4,9 @@
 
 ### Hi there, I'm Frank 👋
 🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/). The purpose is to record all the techniques and ideas I have learned!
+
 🌱 I’m currently learning deeplearning & web
+
 🍺 Goals: 
     - Use Nuxt to build a web .
     - Update [my_blog](https://frank-fn10502.github.io/) every week.
