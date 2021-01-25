@@ -1,6 +1,8 @@
 
 <div>
-    ## Hi there, I'm Frank 👋
+    <h2>
+        Hi there, I'm Frank 👋
+    </h2>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
