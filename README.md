@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 </div>
 
----
+<hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=10&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=8&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
