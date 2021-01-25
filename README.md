@@ -1,6 +1,4 @@
 ### Hi there, I'm Frank 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frank-fn10502)](https://github.com/anuraghazra/github-readme-stats)
-
 🔭 I’m currently working on [my_website]. The purpose is to record all the techniques and ideas I have learned!
 
 
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=10&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frank-fn10502)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frank-fn10502)](https://github.com/anuraghazra/github-readme-stats)
