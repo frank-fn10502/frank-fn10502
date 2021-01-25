@@ -2,7 +2,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true&hide_title=true" />
 </a>
 
-### Hi there, I'm Frank 👋
+## Hi there, I'm Frank 👋
 🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/). The purpose is to record all the techniques and ideas I have learned!
 
 🌱 I’m currently learning deeplearning & web
