@@ -4,9 +4,6 @@
         Hi there, I'm Frank 👋
     </h2>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&hide_title=true" />
-</a>
 
 🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/).
 
@@ -37,3 +34,6 @@ Here are some ideas to get you started:
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=8&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&hide_title=true" />
+</a>
