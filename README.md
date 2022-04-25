@@ -29,19 +29,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
 
 <hr/>
 
 <div class="flex">
     <div>
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=8&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)   
-    </div>
-    <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-fn10502&hide_title=true" />
         </a>
+    </div>
+    <div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-fn10502&layout=compact&langs_count=8&exclude_repo=SurvivalGameWeb,SurvivalGameWebVer2,SurvivalGameWebVer3)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 </div>
 
