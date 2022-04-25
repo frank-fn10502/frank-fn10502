@@ -1,8 +1,0 @@
-.flex {
-  display: flex;
-  height: 300px;
-  padding: 15px;
-  /* // 修改以下值試試看 wrap | nowrap | wrap | wrap-reverse */
-  flex-wrap: wrap;
-  flex-direction: row ;
-}
