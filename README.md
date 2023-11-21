@@ -5,16 +5,18 @@
         Hi there, I'm Frank 👋
     </h2>
 </div>
-
-🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/).
-
+<!--
+🔭 I’m currently working on [my_blog](https://frank-fn10502.github.io/). 
+-->
+<!--
 🌱 I’m currently learning deeplearning & web
-
+ -->
+ <!--
 🍺 Goals: 
 - Use Nuxt to build a web .
 - Update [my_blog](https://frank-fn10502.github.io/) every day. 
 - Understand the theory of neural networks and try to build one.
-
+ -->
 <!--
 **frank-fn10502/frank-fn10502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frank-fn10502&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
